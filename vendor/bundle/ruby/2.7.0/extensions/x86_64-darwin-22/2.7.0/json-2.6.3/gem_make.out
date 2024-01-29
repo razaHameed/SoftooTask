@@ -1,0 +1,13 @@
+current directory: /Users/mac/Documents/Projects/SoftooTask/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/mac/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/mac/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20240129-12797-13coh3j.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mac/Documents/Projects/SoftooTask/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/mac/Documents/Projects/SoftooTask/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/mac/Documents/Projects/SoftooTask/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
